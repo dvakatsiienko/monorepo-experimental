@@ -1,13 +1,15 @@
 {
     "compilerOptions": {
         "module": "CommonJS",
-        "composite": true,
-        "target": "ESNExt",
+        "types": [],
+        "sourceMap": true,
+        "target": "ESNext",
         "strict": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
         "noImplicitReturns": true,
-        "declaration": true
-    },
-    "exclude": ["**/node_modules/**"]
+        "declaration": true,
+        "outDir": "dist",
+        "rootDir": "src"
+    }
 }

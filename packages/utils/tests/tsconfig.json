@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "lib": ["DOM", "ESNext"],
+        "types": ["jest"],
+        "baseUrl": "..",
+        "noEmit": true
+    },
+    "include": ["."]
+}
