@@ -12,7 +12,8 @@
         "build": "scripty",
         "clean": "scripty",
         "lint": "scripty",
-        "test": "scripty"
+        "test": "scripty",
+        "prepare": "husky install"
     },
     "devDependencies": {
         "@commitlint/cli": "12.1.1",
