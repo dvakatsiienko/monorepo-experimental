@@ -5,4 +5,4 @@
 # node @commitlint/cli/lib/cli.js --edit $1
 
 # yarn greet
-yarn commitlint --edit
+yarn commitlint --edit --verbose
