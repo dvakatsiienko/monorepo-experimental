@@ -1,5 +1,5 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-yarn greet
 # commitlint -E HUSKY_GIT_PARAMS
+yarn greet
