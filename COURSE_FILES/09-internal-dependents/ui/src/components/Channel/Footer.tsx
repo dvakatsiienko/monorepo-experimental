@@ -1,5 +1,5 @@
 import * as React from "react";
-import { IChannel } from "@shlack/types";
+import { IChannel } from "@dva/types";
 
 const Footer: React.FunctionComponent<{ channel: IChannel }> = ({
   channel: { name: channelName },

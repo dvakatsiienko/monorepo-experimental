@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Link, useRouteMatch } from "react-router-dom";
-import { IChannel } from "@shlack/types";
+import { IChannel } from "@dva/types";
 
 const ChannelLink: React.FunctionComponent<{
   to: string;

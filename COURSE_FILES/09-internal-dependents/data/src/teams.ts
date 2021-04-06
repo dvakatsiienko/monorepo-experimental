@@ -1,5 +1,5 @@
-import { apiCall } from "@shlack/utils";
-import { isTeam, isTypedArray, ITeam } from "@shlack/types";
+import { apiCall } from "@dva/utils";
+import { isTeam, isTypedArray, ITeam } from "@dva/types";
 
 let cachedAllTeamsList: Promise<ITeam[]>;
 export async function getAllTeams(): Promise<ITeam[]> {

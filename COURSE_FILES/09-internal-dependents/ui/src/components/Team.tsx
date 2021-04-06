@@ -1,6 +1,6 @@
 import * as React from "react";
 import { match, Route, Switch } from "react-router-dom";
-import type { ITeam } from "@shlack/types";
+import type { ITeam } from "@dva/types";
 import SelectedChannel from "./SelectedChannel";
 import TeamSidebar from "./TeamSidebar";
 

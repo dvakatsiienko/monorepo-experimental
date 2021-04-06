@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Link, useRouteMatch } from "react-router-dom";
-import { ITeam } from "@shlack/types";
+import { ITeam } from "@dva/types";
 
 const TeamLink: React.FunctionComponent<{ team: ITeam }> = ({ team }) => {
   const match = useRouteMatch({

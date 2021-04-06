@@ -1,6 +1,6 @@
 import * as React from "react";
 import { match } from "react-router";
-import { IChannel } from "@shlack/types";
+import { IChannel } from "@dva/types";
 import Channel from "./Channel";
 
 const SelectedChannel: React.FunctionComponent<{

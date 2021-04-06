@@ -1,6 +1,6 @@
 import * as React from "react";
-import { IUser } from "@shlack/types";
-import { formatTimestamp } from "@shlack/utils";
+import { IUser } from "@dva/types";
+import { formatTimestamp } from "@dva/utils";
 
 const Message: React.FunctionComponent<{
   user: IUser;

@@ -1,5 +1,5 @@
 import * as React from "react";
-import { ITeam } from "@shlack/types";
+import { ITeam } from "@dva/types";
 import TeamLink from "./TeamSelector/TeamLink";
 
 const TeamSelector: React.FunctionComponent<{ teams: ITeam[] }> = ({
