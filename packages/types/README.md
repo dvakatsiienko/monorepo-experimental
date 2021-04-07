@@ -1,3 +1,3 @@
 # @dva/types
 
-The type docs.
+The type docs. More type docs.
