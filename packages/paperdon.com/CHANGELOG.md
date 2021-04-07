@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.4](https://github.com/dvakatsiienko/monorepo-experimental/compare/paperdon.com@0.4.3...paperdon.com@0.4.4) (2021-04-07)
+
+**Note:** Version bump only for package paperdon.com
+
+
+
+
+
 ## [0.4.3](https://github.com/dvakatsiienko/monorepo-experimental/compare/paperdon.com@0.4.2...paperdon.com@0.4.3) (2021-04-07)
 
 
