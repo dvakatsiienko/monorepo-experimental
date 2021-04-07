@@ -1,4 +1,4 @@
-@dva/data
+@dva/types
 
 text... more description
 

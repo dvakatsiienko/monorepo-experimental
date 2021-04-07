@@ -1,4 +1,4 @@
-@dva/data
+@dva/ui
 
 text... more description
 
