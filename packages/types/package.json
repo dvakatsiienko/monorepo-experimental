@@ -21,5 +21,6 @@
     },
     "scripty": {
         "path": "../../scripts/packages"
-    }
+    },
+    "gitHead": "ab8219aa8651f50016f4b69e81a2a2774e1d1f5d"
 }
