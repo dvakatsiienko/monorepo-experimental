@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.9.2](https://github.com/dvakatsiienko/monorepo-experimental/compare/@dva/utils@0.9.1...@dva/utils@0.9.2) (2021-04-07)
+
+**Note:** Version bump only for package @dva/utils
+
+
+
+
+
 ## [0.9.1](https://github.com/dvakatsiienko/monorepo-experimental/compare/@dva/utils@0.9.0...@dva/utils@0.9.1) (2021-04-07)
 
 **Note:** Version bump only for package @dva/utils

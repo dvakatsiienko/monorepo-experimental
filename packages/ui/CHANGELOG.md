@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.2](https://github.com/dvakatsiienko/monorepo-experimental/compare/@dva/ui@0.7.1...@dva/ui@0.7.2) (2021-04-07)
+
+**Note:** Version bump only for package @dva/ui
+
+
+
+
+
 ## [0.7.1](https://github.com/dvakatsiienko/monorepo-experimental/compare/@dva/ui@0.7.0...@dva/ui@0.7.1) (2021-04-07)
 
 **Note:** Version bump only for package @dva/ui
