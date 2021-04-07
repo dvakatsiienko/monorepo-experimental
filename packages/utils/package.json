@@ -11,7 +11,8 @@
         "build": "scripty",
         "clean": "rimraf dist *.tsbuildinfo",
         "lint": "scripty",
-        "test": "scripty"
+        "test": "scripty",
+        "api-report": "scripty"
     },
     "dependencies": {
         "date-fns": "2.19.0",

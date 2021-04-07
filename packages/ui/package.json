@@ -11,14 +11,15 @@
         "lint": "scripty",
         "clean": "rimraf dist *.tsbuildinfo",
         "build": "parcel build index.html",
-        "test": "scripty"
+        "test": "scripty",
+        "api-report": "scripty"
     },
     "dependencies": {
         "@dva/data": "^0.0.1",
         "@dva/types": "^0.2.6",
         "@dva/utils": "^0.2.6",
         "express": "4.17.1",
-        "json-server": "0.16.2",
+        "json-server": "0.16.3",
         "parcel-bundler": "1.12.5",
         "react": "17.0.2",
         "react-dom": "17.0.2"
@@ -38,7 +39,7 @@
         "@types/react-router-dom": "5.1.7",
         "react-router": "5.2.0",
         "react-router-dom": "5.2.0",
-        "react-test-renderer": "16.14.0",
+        "react-test-renderer": "17.0.2",
         "typescript": "4.2.3"
     },
     "scripty": {
