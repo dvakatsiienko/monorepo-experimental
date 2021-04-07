@@ -4,6 +4,8 @@
 
 ## getTeamById() function
 
+Get a [ITeam](./types.iteam.md) by ID.
+
 <b>Signature:</b>
 
 ```typescript
@@ -19,4 +21,5 @@ export declare function getTeamById(id: string): Promise<ITeam>;
 <b>Returns:</b>
 
 Promise&lt;[ITeam](./types.iteam.md)<!-- -->&gt;
+
 
