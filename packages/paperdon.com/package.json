@@ -1,0 +1,14 @@
+{
+    "name": "paperdon.com",
+    "version": "0.0.1",
+    "author": "Dima Vakatsiienko <imagnum.satellite@gmail.com>",
+    "homepage": "https://github.com/dvakatsiienko/monorepo-experimental#readme",
+    "license": "MIT",
+    "main": "lib/paperdon.com.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    }
+}
