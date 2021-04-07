@@ -10,7 +10,6 @@
     ],
     "scripts": {
         "dev": "scripty",
-        "greet": "scripty",
         "build": "scripty",
         "build-watch": "scripty",
         "clean": "scripty",
@@ -39,7 +38,6 @@
     },
     "changelog": {
         "labels": {
-            "title": "Changelog",
             "feature": "New Feature",
             "bug": "Bug Fix"
         }
