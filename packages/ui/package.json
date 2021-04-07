@@ -1,6 +1,6 @@
 {
     "name": "@dva/ui",
-    "version": "0.7.2",
+    "version": "0.7.3",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "publishConfig": {
@@ -15,8 +15,8 @@
         "api-report": "scripty"
     },
     "dependencies": {
-        "@dva/data": "^0.7.2",
-        "@dva/types": "^0.9.1",
+        "@dva/data": "^0.7.3",
+        "@dva/types": "^0.9.2",
         "@dva/utils": "^0.9.2",
         "express": "4.17.1",
         "json-server": "0.16.3",
