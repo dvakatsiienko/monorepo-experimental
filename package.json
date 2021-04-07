@@ -29,13 +29,15 @@
         "lerna-changelog": "1.0.1",
         "rimraf": "3.0.2",
         "scripty": "2.0.0",
-        "typescript": "4.2.3"
+        "typescript": "4.2.3",
+        "verdaccio": "4.12.0"
     },
     "scripty": {
         "path": "./scripts/workspace"
     },
     "changelog": {
         "labels": {
+            "title": "Changelog",
             "feature": "New Feature",
             "bug": "Bug Fix"
         }
