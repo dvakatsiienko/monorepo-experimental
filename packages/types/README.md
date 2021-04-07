@@ -1,5 +1,3 @@
-@dva/data
+# @dva/types
 
-text... more description
-
-additional notes...
+The type docs.
