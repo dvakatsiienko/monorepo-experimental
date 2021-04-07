@@ -16,6 +16,7 @@
         "lint": "scripty",
         "test": "scripty",
         "api-docs": "scripty",
+        "hello": "scripty",
         "prepare": "husky install"
     },
     "devDependencies": {

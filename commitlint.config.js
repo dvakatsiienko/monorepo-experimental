@@ -8,8 +8,8 @@ module.exports = {
         '@commitlint/config-lerna-scopes',
     ],
     rules: {
-        'subject-empty': [0],
-        'type-empty': [0],
+        // 'subject-empty': [0],
+        // 'type-empty': [0],
         'scope-enum': async ctx => [
             2,
             'always',
