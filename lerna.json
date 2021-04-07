@@ -6,11 +6,13 @@
     "nohoist": ["parcel-bundler"],
     "command": {
         "publish": {
-            "conventionalCommits": true
+            "conventionalCommits": true,
+            "push": false
         },
         "version": {
             "message": "chore(release): release",
-            "conventionalCommits": true
+            "conventionalCommits": true,
+            "push": false
         }
     }
 }
