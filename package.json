@@ -9,8 +9,10 @@
         "packages/*"
     ],
     "scripts": {
+        "dev": "scripty",
         "greet": "scripty",
         "build": "scripty",
+        "build-watch": "scripty",
         "clean": "scripty",
         "lint": "scripty",
         "test": "scripty",
