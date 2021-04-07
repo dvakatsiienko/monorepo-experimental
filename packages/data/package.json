@@ -1,6 +1,6 @@
 {
     "name": "@dva/data",
-    "version": "0.1.0",
+    "version": "0.3.0",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "publishConfig": {
@@ -14,8 +14,8 @@
         "api-report": "scripty"
     },
     "dependencies": {
-        "@dva/types": "^0.3.0",
-        "@dva/utils": "^0.3.0"
+        "@dva/types": "^0.5.0",
+        "@dva/utils": "^0.5.0"
     },
     "devDependencies": {
         "@babel/preset-env": "^7.12.0",
