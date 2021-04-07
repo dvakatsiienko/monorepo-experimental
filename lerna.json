@@ -1,7 +1,15 @@
 {
-    "version": "independent",
     "useWorkspaces": true,
+    "version": "independent",
     "npmClient": "yarn",
     "packages": ["packages/*"],
-    "nohoist": ["parcel-bundler"]
+    "nohoist": ["parcel-bundler"],
+    "command": {
+        "publish": {
+            "conventionalCommits": true
+        },
+        "version": {
+            "message": "chore(release): release"
+        }
+    }
 }
