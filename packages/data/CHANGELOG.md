@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.5](https://github.com/dvakatsiienko/monorepo-experimental/compare/@dva/data@0.7.4...@dva/data@0.7.5) (2021-04-12)
+
+
+### Bug Fixes
+
+* **data:** add changes to readme 1 ([eb875a6](https://github.com/dvakatsiienko/monorepo-experimental/commit/eb875a6a11ebbe8e2b1279815ff67c101adb5e5b))
+* **data,paperdon.com:** add changes ([e78b6b4](https://github.com/dvakatsiienko/monorepo-experimental/commit/e78b6b486fa2b49988cd9baa64716a3c49f09054))
+
+
+
+
+
 ## [0.7.4](https://github.com/dvakatsiienko/monorepo-experimental/compare/@dva/data@0.7.3...@dva/data@0.7.4) (2021-04-07)
 
 **Note:** Version bump only for package @dva/data

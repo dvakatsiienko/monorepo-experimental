@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.2](https://github.com/dvakatsiienko/monorepo-experimental/compare/paperdon.com@2.0.0...paperdon.com@2.0.2) (2021-04-12)
+
+
+### Bug Fixes
+
+* **data,paperdon.com:** add changes ([e78b6b4](https://github.com/dvakatsiienko/monorepo-experimental/commit/e78b6b486fa2b49988cd9baa64716a3c49f09054))
+* **paperdon.com:** add changes to readme 2 ([d1954dd](https://github.com/dvakatsiienko/monorepo-experimental/commit/d1954ddb6cea00a7a020297187318684ae2f2d58))
+* **paperdon.com:** fix a bug today ([6fb4f72](https://github.com/dvakatsiienko/monorepo-experimental/commit/6fb4f725eefa642d5f88c0f4497b108cd06d9d68))
+
+
+
+
+
 ## [2.0.1](https://github.com/dvakatsiienko/monorepo-experimental/compare/paperdon.com@2.0.0...paperdon.com@2.0.1) (2021-04-12)
 
 
